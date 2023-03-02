@@ -34,3 +34,10 @@ import gym
 
 env = gym.make("gym_snake:gym_snake/Snake-v0")
 ```
+
+## References
+
+- [Gym documentation](https://www.gymlibrary.dev/)
+- [Stable baselines 3 documentation](https://stable-baselines3.readthedocs.io/en/master/)
+- [PPO paper](https://arxiv.org/abs/1707.06347)
+- [A2C paper](https://arxiv.org/abs/1602.01783v2)
